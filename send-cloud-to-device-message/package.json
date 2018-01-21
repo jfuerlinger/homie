@@ -1,0 +1,14 @@
+{
+  "name": "send-cloud-to-device-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SendCloudToDeviceMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iothub": "^1.2.3"
+  }
+}

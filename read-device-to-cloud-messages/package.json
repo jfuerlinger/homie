@@ -1,0 +1,14 @@
+{
+  "name": "read-device-to-cloud-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ReadDeviceToCloudMessages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josef Fürlinger",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8"
+  }
+}
