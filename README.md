@@ -1,4 +1,4 @@
-# homie
+# HOMIE
 Homeautomation - Getting started
 
 - device-logic => NodeJS tool hosted on the Raspberry Pi Zero
